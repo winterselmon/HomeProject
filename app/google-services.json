@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "134729369144",
+    "firebase_url": "https://homeproject-f82f7.firebaseio.com",
+    "project_id": "homeproject-f82f7",
+    "storage_bucket": "homeproject-f82f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134729369144:android:afe4ca841895ad2b",
+        "android_client_info": {
+          "package_name": "com.example.bestl.homeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134729369144-p9kppqe9n729ju5fu2rh02fnqsa214oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC2H3EFfdtWnf8Wk0wW1PcQZRMCJfuAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
