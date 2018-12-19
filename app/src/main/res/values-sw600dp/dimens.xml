@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Icon size -->
+
+    <dimen name="icon_logo_app_small">144dp</dimen>
+    <dimen name="icon_logo_app">220dp</dimen>
+
+    <dimen name="icon_standard_S3">24dp</dimen>
+    <dimen name="icon_standard_S2">36dp</dimen>
+    <dimen name="icon_standard_S1">44dp</dimen>
+    <dimen name="icon_standard">68dp</dimen>
+    <dimen name="icon_standard_L1">76dp</dimen>
+    <dimen name="icon_standard_L2">92dp</dimen>
+
+    <!-- Image and Layout-->
+
+    <dimen name="img_pin_select">60dp</dimen>
+    <dimen name="img_pin">64dp</dimen>
+    <dimen name="img_pin_num">90dp</dimen>
+
+    <dimen name="img_no_detail">108dp</dimen>
+
+    <dimen name="img_profile_normal">102dp</dimen>
+    <dimen name="img_profile_large">128dp</dimen>
+
+    <dimen name="main_check_in">176dp</dimen>
+    <dimen name="main_event_width">380dp</dimen>
+    <dimen name="main_event_margin">16dp</dimen>
+    <dimen name="main_leave_type_text">140dp</dimen>
+    <dimen name="main_leave_FAB">28dp</dimen>
+    <dimen name="main_leave_FAB_LR">32dp</dimen>
+    <dimen name="main_leave_FAB_TB">24dp</dimen>
+    <dimen name="main_menu_width">380dp</dimen>
+
+    <dimen name="add_emp_select_wh">36dp</dimen>
+
+    <dimen name="agenda_calendar_height">326dp</dimen>
+    <dimen name="agenda_calendar_circle">56dp</dimen>
+
+    <dimen name="leave_edt_reason_height">86dp</dimen>
+
+    <!-- Text size -->
+
+    <dimen name="text_display4">120dip</dimen>
+    <dimen name="text_display3">62dip</dimen>
+    <dimen name="text_display2">53dip</dimen>
+    <dimen name="text_display1">42dip</dimen>
+    <dimen name="text_headline">32dip</dimen>
+    <dimen name="text_title">29dip</dimen>
+    <dimen name="text_subheading">26dip</dimen>
+    <dimen name="text_body">33dip</dimen>
+    <dimen name="text_caption">21dip</dimen>
+    <dimen name="text_button">23dip</dimen>
+
+    <dimen name="text_normal_d3">22dip</dimen>
+    <dimen name="text_normal_d2">24dip</dimen>
+    <dimen name="text_normal_d1">26dip</dimen>
+    <dimen name="text_normal">28dip</dimen>
+    <dimen name="text_normal_u1">30dip</dimen>
+    <dimen name="text_normal_u2">32dip</dimen>
+    <dimen name="text_normal_u3">34dip</dimen>
+    <dimen name="text_normal_u4">36dip</dimen>
+    <dimen name="text_normal_u5">38dip</dimen>
+
+    <bool name="isTab">true</bool>
+
+</resources>

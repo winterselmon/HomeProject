@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#7d7d7d</color>
+    <color name="colorMaKub_light">#00d8a5</color>
+    <color name="colorMaKub_dark">#319c99</color>
+    <color name="colorMaKub_red">#f36a5a</color>
+    <color name="colorMaKub_green_dark">#319c99</color>
+    <color name="colorMaKub_green_light">#00d8a5</color>
+    <color name="colorMaKub_green_light_alpha">#8000d8a5</color>
+    <color name="colorMaKub_black">#555555</color>
+    <color name="colorMaKub_gray_dark">#7d7d7d</color>
+    <color name="colorMaKub_gray">#afafaf</color>
+    <color name="colorMaKub_gray_light">#dfdfdf</color>
+    <color name="colorMaKub_gray_light_da">#dadada</color>
+    <color name="colorMaKub_gray_light_87">#878787</color>
+
+    <color name="colorMaKub_gray_bg">#ebebeb</color>
+    <color name="colorMaKub_holiday">#e43a45</color>
+    <color name="colorMaKub_leave">#e43a45</color>
+    <color name="colorMaKub_leave_approve">#4c87b9</color>
+    <color name="colorMakub_snow_gray">#EEE9E9</color>
+    <color name="colorMakub_light_cyan">#E0FFFF</color>
+    <color name="coloerMakub_gray_91">#fcf7f7</color>
+
+    <color name="facebook">#3B5A9A</color>
+    <color name="line">#00C300</color>
+    <color name="google_plus">#D64131</color>
+    <color name="email">#4E555D</color>
+
+
+    <color name="colorMaKub_passDate">#a1a1a1</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="darkbule">#00689f</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+
 </resources>
